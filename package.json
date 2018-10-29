@@ -1,5 +1,5 @@
 {
-  "name": "progressdb-dynamodb-driver",
+  "name": "@sglearn/progressdb-dynamodb-driver",
   "version": "1.0.0",
   "description": "dynamodb driver for progress database",
   "main": "api.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duongtdn/progressdb-dynamodb-driver.git"
+    "url": "git+https://github.com/sglearn/progressdb-dynamodb-driver.git"
   },
   "author": "duongtdn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duongtdn/progressdb-dynamodb-driver/issues"
+    "url": "https://github.com/sglearn/progressdb-dynamodb-driver/issues"
   },
-  "homepage": "https://github.com/duongtdn/progressdb-dynamodb-driver#readme",
+  "homepage": "https://github.com/sglearn/progressdb-dynamodb-driver#readme",
   "dependencies": {
     "aws-sdk": "^2.240.1"
   }
